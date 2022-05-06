@@ -31,6 +31,6 @@
     "nodemailer": "^6.7.5"
   },
   "prisma": {
-    "schema": "prisma/schema.prisma"
+    "schema": "./prisma/schema.prisma"
   }
 }
